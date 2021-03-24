@@ -21,7 +21,7 @@
 		    user email : <%=tb.getEmail() %><br>
 		    user nickname : <%=tb.getNick() %><br>
 		<%
-		  }
+		  }lklk
 		%>
 	</body>
 </html>
